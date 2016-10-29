@@ -1,0 +1,9 @@
+.\obj\arm_sin_f32.o: ..\BSP\CMSIS\DSP_Lib\Source\FastMathFunctions\arm_sin_f32.c
+.\obj\arm_sin_f32.o: ..\BSP\CMSIS\Include\arm_math.h
+.\obj\arm_sin_f32.o: ..\BSP\CMSIS\Include\core_cm4.h
+.\obj\arm_sin_f32.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\arm_sin_f32.o: ..\BSP\CMSIS\Include\core_cmInstr.h
+.\obj\arm_sin_f32.o: ..\BSP\CMSIS\Include\core_cmFunc.h
+.\obj\arm_sin_f32.o: ..\BSP\CMSIS\Include\core_cm4_simd.h
+.\obj\arm_sin_f32.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\obj\arm_sin_f32.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
